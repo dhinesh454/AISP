@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6768f38f84c344220755187c"
+  },
+  "type": "HR",
+  "lastlevel": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6768f38f84c344220755187d"
+  },
+  "type": "Finance",
+  "lastlevel": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6768f38f84c344220755187e"
+  },
+  "type": "Manager",
+  "lastlevel": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6768f7a036004ce74f9beb6b"
+  },
+  "type": "Admin",
+  "lastlevel": 0,
+  "__v": 0
+}]

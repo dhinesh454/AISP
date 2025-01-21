@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6769695dd65d6275e8c6e7e0"
+  },
+  "PONumber": {
+    "$oid": "676900e27db4a7eb9fd3fc42"
+  },
+  "approval": [
+    {
+      "departmentId": {
+        "$oid": "6768f38f84c344220755187c"
+      },
+      "lastlevel": 1
+    },
+    {
+      "departmentId": {
+        "$oid": "6768f38f84c344220755187d"
+      },
+      "lastlevel": 2
+    },
+    {
+      "departmentId": {
+        "$oid": "6768f38f84c344220755187e"
+      },
+      "lastlevel": 3
+    }
+  ],
+  "__v": 0
+}]
